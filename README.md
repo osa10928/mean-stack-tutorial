@@ -1,5 +1,14 @@
 # Mean
 
+# Mean Stack Tutorial
+
+This repo contains a simple MEAN stack tutorial. A MEAN stack is a tutorial which uses MongoDB, Expressjs, Angular, and Nodejs to create a simple but robust full stack application. I've added this repo for easy reference purposes, but if you would like to go through this amazing tutorial yourself, to [this](https://coursetro.com/posts/code/84/Setting-up-an-Angular-4-MEAN-Stack-(Tutorial)) website.
+
+## Special Thanks
+Special thanks to Gary Simon for posting the tutorial. And of course, thanks to the teams at MongoDB, Express, Angular, and Node for making development easy.
+
+# Notice From Angular CLI team
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
